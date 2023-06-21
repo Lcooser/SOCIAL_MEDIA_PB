@@ -1,0 +1,77 @@
+.profile {
+    background-color: #0e1217;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .info {
+    text-align: center;
+  }
+  
+  .info h2 {
+    margin-top: 0;
+  }
+  
+  .info p {
+    margin: 4px 0;
+  }
+  
+  .photo {
+    margin-top: 16px;
+    text-align: center;
+  }
+  
+  .photo img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .posts {
+    margin-top: 16px;
+  }
+  
+  .post {
+    background-color: #fff;
+    color: #000;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .post h4 {
+    margin-top: 0;
+  }
+  
+  .post p {
+    margin-bottom: 8px;
+  }
+  
+  .post-actions button {
+    margin-right: 8px;
+  }
+  
+  .post-actions .btn {
+    background-color: #0e1217;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .post-actions .btn:hover {
+    background-color: #1e242d;
+  }
+  
+  .post-actions a.btn {
+    text-decoration: none;
+    color: #fff;
+  }

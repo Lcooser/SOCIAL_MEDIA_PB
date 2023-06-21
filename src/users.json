@@ -1,0 +1,84 @@
+{
+    "users": [
+      {
+        "name": "João",
+        "age": 25,
+        "gender": "Masculino",
+        "email": "joao@example.com",
+        "photoUrl": "https://picsum.photos/id/1011/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Maria",
+        "age": 30,
+        "gender": "Feminino",
+        "email": "maria@example.com",
+        "photoUrl": "https://picsum.photos/id/1012/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Pedro",
+        "age": 28,
+        "gender": "Masculino",
+        "email": "pedro@example.com",
+        "photoUrl": "https://picsum.photos/id/1013/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Ana",
+        "age": 22,
+        "gender": "Feminino",
+        "email": "ana@example.com",
+        "photoUrl": "https://picsum.photos/id/1014/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Carlos",
+        "age": 35,
+        "gender": "Masculino",
+        "email": "carlos@example.com",
+        "photoUrl": "https://picsum.photos/id/1015/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Luisa",
+        "age": 27,
+        "gender": "Feminino",
+        "email": "luisa@example.com",
+        "photoUrl": "https://picsum.photos/id/1016/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Felipe",
+        "age": 31,
+        "gender": "Masculino",
+        "email": "felipe@example.com",
+        "photoUrl": "https://picsum.photos/id/1017/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Mariana",
+        "age": 29,
+        "gender": "Feminino",
+        "email": "mariana@example.com",
+        "photoUrl": "https://picsum.photos/id/1018/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Ricardo",
+        "age": 33,
+        "gender": "Masculino",
+        "email": "ricardo@example.com",
+        "photoUrl": "https://picsum.photos/id/1019/200/200",
+        "password": "1234"
+      },
+      {
+        "name": "Juliana",
+        "age": 26,
+        "gender": "Feminino",
+        "email": "juliana@example.com",
+        "photoUrl": "https://picsum.photos/id/1020/200/200",
+        "password": "1234"
+      }
+    ]
+  }

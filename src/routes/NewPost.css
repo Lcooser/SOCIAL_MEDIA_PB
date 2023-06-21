@@ -27,3 +27,9 @@ form{
     border-radius: 5px;
     border: none;
 }
+
+.post-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

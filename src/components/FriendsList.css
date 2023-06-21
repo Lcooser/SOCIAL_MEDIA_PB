@@ -1,0 +1,31 @@
+.friends-list-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0e1217;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .friends-list-container.open {
+    transform: translateY(-100%);
+  }
+  
+  .friends-list-toggle {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .friends-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .friend {
+    margin-bottom: 5px;
+  }
